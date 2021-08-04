@@ -181,7 +181,7 @@ The rules module is a microservice that will be responsible for evaluating rules
 
 The following operations are performed in this module
 
-- Evaluate Min Balance 
+- Evaluate Minimum Balance 
 
 - Get Service Charges
 
