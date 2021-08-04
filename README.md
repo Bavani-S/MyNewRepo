@@ -15,7 +15,7 @@ Retail Banking System helps to register a customer and create an account with th
 - Open the user interface files in Visual Studio Code/ Command Prompt
 - Make sure the Node.js and Angular Client softwares have been installed in the system
 - Open a new terminal navigate to the user interface files folder
-- Give the command "npm -install"
+- Give the command "npm install"
 - After installing give the command "ng serve --open"
 - The application will be opened in a browser window with url: http://localhost:4200/
 
