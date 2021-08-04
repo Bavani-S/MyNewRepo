@@ -84,7 +84,7 @@ b) Dispaying customer’s profile:
 ---------------------------------
 **Step-1:** Open Postman and follow the steps below:
 
-**Step-2:** Go to Url section and paste http://localhost:8085/customer/getCustomerDetails/CUSTOMER129 (**Method:** GET)
+**Step-2:** Go to Url section and paste http://localhost:8085/customer/getCustomerDetails/CUSTOMER101 (**Method:** GET)
 
 **Step-3:** Go to Authorization Section: Select token type as Bearer ,next paste the token there.
 
@@ -120,7 +120,7 @@ b) Fetching Accounts related to a Customer as a summary information
 ------------------------------------------------------------------
 **Step-1:** Open Postman and follow the steps below:
 
-**Step-2:** Go to Url section and paste http://localhost:8086/account-ms/getAccount/1000000004 (**Method:** GET)
+**Step-2:** Go to Url section and paste http://localhost:8086/account-ms/getAccount/1000000001 (**Method:** GET)
 
 **Step-3:**  Go to Authorization Section: Select token type as Bearer ,next paste the token there.
 
